@@ -1,1 +1,1 @@
-# Alg-Geom
+Programul urmator in Python 3.11 calculeaza determinantul a mai multor matrice patratice de dimensiuni variabile, compara timpul de rulare al celor doua metode de calcul si deseneaza un grafic care sa prezinte evolutia performantelor functiilor, in functie de dimensiunea matricelor.
