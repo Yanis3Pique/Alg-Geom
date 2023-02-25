@@ -1,1 +1,1 @@
-Programul urmator in Python 3.11 calculeaza determinantul a mai multor matrice patratice de dimensiuni variabile, compara timpul de rulare al celor doua metode de calcul si deseneaza un grafic care sa prezinte evolutia performantelor functiilor, in functie de dimensiunea matricelor.
+The following program, written in Python 3.11, computes the determinant of several quadratic matrices of variable size, compares the running time of the two computation methods and draws a graph showing the evolution of the performance of the functions as a function of the size of the matrices.
