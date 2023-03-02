@@ -1,1 +1,1 @@
-The following program, written in Python 3.11, computes the determinant of several quadratic matrices of variable size, compares the running time of the two computation methods and returns an appropriate message about that performance.
+The following program, written in Python 3.11, computes the determinant of several quadratic matrices of variable size, compares the running time of the two computation methods and returns a graphic, comparing the running time of the methods.
